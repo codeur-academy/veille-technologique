@@ -1,0 +1,64 @@
+{
+"index-html": {
+      "title": "Introduction",
+      "content"	 : "Veille technologique : font-end et back-endNous allons découvrir dans cette formation les technologies utilisé pour développer une application informatique.L’objectif de la formation est de vous offrire les bases nécessaire pour commencer à recherche vous-mêmes les bons références pour s’auto-fortmer.L’idée de la formation est de vous expliquer les différents mots-clés et technologies avec des exemples simple pour comprendre leurs utilité et principale de fonctionnement.",
+      "url": "/veille-technologique/index.html",
+      "author": "",
+      "categories": "introduction"
+    }
+,
+"pr-c3-a9sentation-formation-html": {
+      "title": "Présentation de la formation",
+      "content"	 : "Présentation de la formationLa formation est divier en trois parties      Environement de développement    front-end  back-end  Bibliothèques-font-end  Frameworks-font-end  Modélisation  Bibliothèques-back-end  Frameworks-back-end  Plate-forme",
+      "url": "/veille-technologique/pr%C3%A9sentation-formation.html",
+      "author": "",
+      "categories": "introduction"
+    }
+,
+"pr-c3-a9sentation-formateur-html": {
+      "title": "Présentation du formateur",
+      "content"	 : "Présentation du formateur",
+      "url": "/veille-technologique/pr%C3%A9sentation-formateur.html",
+      "author": "",
+      "categories": "introduction"
+    },
+"pr-c3-a9sentation-formateur-html#googler-sur-essarraj-fouad": {
+      "title": "Googler sur ESSARRAJ Fouad  (Présentation du formateur)",
+      "content"	 : "Googler sur ESSARRAJ FouadJe m’appelle ES-SARRAJ Fouad, je suis formateur et ingénieur informatique avec 10 ans d’expérience en formation et programmation.Pour plus d’information sur moi, vous pouvez recherche sur google, vous trouveriez mon site web, ma chaîne YouTube et mes formations sur Udemy.  Ma chaîne YouTube   Mes formations sur Udemy   Mon site web",
+      "url": "/veille-technologique/pr%C3%A9sentation-formateur.html#googler-sur-essarraj-fouad",
+      "author": "",
+      "categories": "introduction"
+    }
+,
+"ui-design-html": {
+      "title": "UI Design",
+      "content"	 : "UI DesignL’UI Design (User Interface Design), est l’étape de conception de l’interface utilisateur.L’UI designer est donc la personne en charge de réaliser une interface agréable et utile pour les utilisateurs. Selon les règles et méthodes dédiées à l’ergonomie des interfaces, il conçoit et positionne les différents éléments graphiques et textuels d’une interface web par exemple. Ses objectifs étant de faciliter la navigation des internautes en leur proposant des éléments ergonomiques intuitifs, utiles et pratiques.",
+      "url": "/veille-technologique/ui-design.html",
+      "author": "",
+      "categories": "front-end"
+    }
+,
+"pile-d-c3-a9veloppement-html": {
+      "title": "Pile de développement",
+      "content"	 : "Pile de développement",
+      "url": "/veille-technologique/pile-d%C3%A9veloppement.html",
+      "author": "",
+      "categories": "environnement"
+    },
+"pile-d-c3-a9veloppement-html#quest-ce-quune-pile-de-développement-web-": {
+      "title": "Qu’est-ce qu’une pile de développement Web ?  (Pile de développement)",
+      "content"	 : "Qu’est-ce qu’une pile de développement Web ?Les piles de logiciels (Web stack en anglais) sont un ensemble de logiciels permettant de développer des sites et des applications Web. Le terme « stack » signifie en anglais « pile », dans la mesure où l’on utilise un empilement de logiciels pour le développement d’un projet, dont les composants individuels se complètent.Ces piles de logiciels présentent une structure minimaliste et sont composées de la manière suivante :  un système d’exploitation ;  un serveur Web ;  une base de données ;  un interpréteur de script.",
+      "url": "/veille-technologique/pile-d%C3%A9veloppement.html#quest-ce-quune-pile-de-développement-web-",
+      "author": "",
+      "categories": "environnement"
+    },
+"pile-d-c3-a9veloppement-html#références": {
+      "title": "Références  (Pile de développement)",
+      "content"	 : "Références  Les piles de logiciels : la structure du développement Web",
+      "url": "/veille-technologique/pile-d%C3%A9veloppement.html#références",
+      "author": "",
+      "categories": "environnement"
+    }
+
+
+}
