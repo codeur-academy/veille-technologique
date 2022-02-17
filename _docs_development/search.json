@@ -38,6 +38,49 @@
       "categories": "front-end"
     }
 ,
+"typescript-html": {
+      "title": "TypeScript",
+      "content"	 : "TypeScript",
+      "url": "/veille-technologique/typescript.html",
+      "author": "",
+      "categories": "front-end"
+    },
+"typescript-html#introduction": {
+      "title": "Introduction  (TypeScript)",
+      "content"	 : "IntroductionTypeScript est JavaScript avec une syntaxe pour les types.TypeScript est un langage de programmation fortement typé qui s’appuie sur JavaScript, vous offrant de meilleurs outils à n’importe quelle échelle.",
+      "url": "/veille-technologique/typescript.html#introduction",
+      "author": "",
+      "categories": "front-end"
+    },
+"typescript-html#what-is-typescript": {
+      "title": "What is TypeScript?  (TypeScript)",
+      "content"	 : "What is TypeScript?",
+      "url": "/veille-technologique/typescript.html#what-is-typescript",
+      "author": "",
+      "categories": "front-end"
+    },
+"typescript-html#présentation": {
+      "title": "Présentation  (TypeScript)",
+      "content"	 : "Présentation  TypeScript est un langage de programmation libre et open source développé par Microsoft.  Il a pour but d’améliorer et de sécuriser la production de code JavaScript.  Il s’agit d’un sur-ensemble syntaxique strict de JavaScript (c’est-à-dire que tout code JavaScript correct peut être utilisé avec TypeScript).  Le code TypeScript est transcompilé en JavaScript, et peut ainsi être interprété par n’importe quel navigateur web ou moteur JavaScript.  TypeScript permet un typage statique optionnel des variables et des fonctions, la création de classes et d’interfaces, l’import de modules, tout en conservant l’approche non-contraignante de JavaScript.  Il supporte la spécification ECMAScript 6.  Il est sous licence Apache License 2.0.  TypeScript est inclus en tant que langage de programmation de première classe dans Microsoft Visual Studio 2013 Update 2 et versions ultérieures, à côté de C# et d’autres langages Microsoft.",
+      "url": "/veille-technologique/typescript.html#présentation",
+      "author": "",
+      "categories": "front-end"
+    },
+"typescript-html#différence-entre-javascript-et-typescript": {
+      "title": "Différence entre Javascript et TypeScript  (TypeScript)",
+      "content"	 : "Différence entre Javascript et TypeScript",
+      "url": "/veille-technologique/typescript.html#différence-entre-javascript-et-typescript",
+      "author": "",
+      "categories": "front-end"
+    },
+"typescript-html#références": {
+      "title": "Références  (TypeScript)",
+      "content"	 : "Références  typescriptlang.org  TypeScript, fr.wikipedia.org",
+      "url": "/veille-technologique/typescript.html#références",
+      "author": "",
+      "categories": "front-end"
+    }
+,
 "pile-d-c3-a9veloppement-html": {
       "title": "Pile de développement",
       "content"	 : "Pile de développement",
